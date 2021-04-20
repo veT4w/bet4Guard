@@ -36,4 +36,4 @@ exports.conf = {
   command: "bilgi",
   description: "",
   aliases: []
-}
+};
